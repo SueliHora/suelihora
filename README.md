@@ -1,32 +1,26 @@
-### Hi there 👋
 
+Hi there! 👋 I'm Sueli da Hora,
 Welcome to my GitHub!
 
-🚀 I'm Sueli da Hora, an enthusiast of technology, programming, and data analysis. I'm constantly learning, exploring the vast universe of programming, and diving into the wonders of artificial intelligence.
+🚀 I'm a tech and design enthusiast, with a deep love for programming and data analysis. I thrive on constant learning, delving into the expansive realms of programming, and immersing myself in the marvels of artificial intelligence.
 
-🌐 Currently, my focus is on learning programming for Data Science and automations in Python, as well as Artificial Intelligence and web development. I'm excited to contribute to the community, learn from talented peers, and, of course, have fun in the process!
+🌐 Currently, my focus lies in mastering programming for Data Science and automations in Python, alongside delving into Artificial Intelligence and web development. I'm thrilled to contribute to the community, absorb insights from talented peers, and, of course, revel in the joy of the learning process!
 
-💡 I love challenges and am always seeking creative solutions to complex problems. I believe technology has the power to transform the world, and I'm committed to doing my part in that process.
+💡 I thrive on challenges and consistently seek creative solutions to intricate problems. I firmly believe in the transformative power of technology and am dedicated to playing my role in that transformative journey.
 
-📚 Beyond code, I'm passionate about sharing knowledge. Here you'll find projects and repositories that reflect my learning journey. Feel free to explore, contribute, and suggest improvements.
+📚 Beyond the lines of code, I'm deeply passionate about sharing knowledge. Here, you'll discover projects and repositories that mirror my learning expedition. Feel free to explore, contribute, and offer suggestions for improvement.
 
-🤝 I'm open to collaborations, feedback, and connections with amazing people like you. Let's build something awesome together!
+🤝 I'm open to collaborations, feedback, and connecting with amazing individuals like yourself. Let's embark on the journey of building something extraordinary together!
 
-📫 You can find me on other platforms as well. Feel free to follow me on Linkedin to keep up with my latest discoveries and projects.
+📫 You can also find me on other platforms. Don't hesitate to follow me on Linkedin to stay in the loop with my latest discoveries and projects.
 
-🙏 Thank you for visiting my profile! Be part of this exciting journey toward the technological future.
+🙏 Thanks for stopping by my profile! Join me in this thrilling expedition towards the technological future.
 
 Happy coding! 🚀✨
 
-Sueli da Hora 💻🌟 
--->
+Sueli da Hora 💻🌟
 
 <p></p>
-<br>
-<p> Visit my portfolio at www.suelihora.com.br </p>
-
-<p></p>
-
 
 <div style="display: inline_block"><br>
   My learning journey <br> <br>
@@ -35,17 +29,7 @@ Sueli da Hora 💻🌟
   <img align="center" alt="Sueli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sueli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-</div>
-
-
-<p> </p> 
-<br>
 
 <div> 
    	
- Feel free to get in touch with me <br> <br>
- <a href = "mailto:s.horamoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/sueli-da-hora" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
-</div>
