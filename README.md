@@ -26,10 +26,6 @@ Feliz programação e análise! 🚀✨
 Sueli da Hora 💻🌟
 
 
-Parece que o ícone do Orange Canvas não está carregando corretamente. Vamos tentar outra abordagem:
-Em vez de usar um link direto para uma imagem, você pode criar um ícone personalizado a partir de uma imagem que você tenha ou usar um serviço de hospedagem de imagens confiável.
-Aqui está o código atualizado sem o ícone quebrado:
-<div style="display: inline_block"><br>
   Minha jornada de aprendizado <br> <br>
   <!-- Desenvolvimento Web -->
   <img align="center" alt="Sueli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
