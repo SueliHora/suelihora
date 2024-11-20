@@ -25,7 +25,7 @@ Oi pessoal! 👋 Eu sou Sueli da Hora, bem-vindos ao meu GitHub!
 Feliz programação e análise! 🚀✨
 Sueli da Hora 💻🌟
 
-
+<div style="display: inline_block"><br>
   Minha jornada de aprendizado <br> <br>
   <!-- Desenvolvimento Web -->
   <img align="center" alt="Sueli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
