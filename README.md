@@ -2,7 +2,7 @@ English Version:
 
 Hi there! 👋 I'm Sueli da Hora, Welcome to my GitHub!
 🚀 I'm a tech enthusiast with a deep passion for data science and artificial intelligence. My journey is fueled by a thirst for knowledge and a fascination with how data can drive innovation and insight.
-🌐 Currently, I'm immersing myself in the world of Data Science, mastering Python for automation, and exploring the transformative potential of Artificial Intelligence. I'm excited to contribute to the tech community, learn from talented peers, and embrace the continuous learning process that these fields offer.
+🌐 Currently, I'm immersing myself in the world of Data Engineering, Data Science, and Data Analysis, mastering Python for automation, and exploring the transformative potential of Artificial Intelligence. I'm excited to contribute to the tech community, learn from talented peers, and embrace the continuous learning process that these fields offer.
 💡 I thrive on challenges and am dedicated to uncovering creative solutions to complex problems. I believe in the transformative power of data and technology, and I'm committed to being part of this exciting journey towards innovation.
 📚 Beyond the algorithms, I'm passionate about sharing what I learn. Here, you'll find projects and repositories that reflect my exploration and growth in data science and AI. Feel free to explore, contribute, and share your insights.
 🤝 I'm open to collaborations and feedback, eager to connect with amazing individuals who share a curiosity for data and AI. Let's build something extraordinary together!
@@ -15,8 +15,8 @@ Sueli da Hora 💻🌟
 Versão em Português:
 
 Oi pessoal! 👋 Eu sou Sueli da Hora, bem-vindos ao meu GitHub!
-🚀 Sou uma entusiasta de tecnologia com uma paixão profunda por ciência de dados e inteligência artificial. Minha jornada é movida por uma sede de conhecimento e uma fascinação por como os dados podem impulsionar inovação e insights.
-🌐 Atualmente, estou me aprofundando no mundo da Ciência de Dados, dominando Python para automação e explorando o potencial transformador da Inteligência Artificial. Estou animada para contribuir com a comunidade tech, aprender com colegas talentosos e abraçar o processo contínuo de aprendizado que esses campos oferecem.
+🚀 Sou uma entusiasta de tecnologia com uma paixão profunda por dados e inteligência artificial. Minha jornada é movida por uma sede de conhecimento e uma fascinação por como os dados podem impulsionar inovação e insights.
+🌐 Atualmente, estou me aprofundando no mundo da Engenharia, Ciência e Análise de Dados, dominando Python para automação e explorando o potencial transformador da Inteligência Artificial. Estou animada para contribuir com a comunidade tech, aprender com colegas talentosos e abraçar o processo contínuo de aprendizado que esses campos oferecem.
 💡 Eu prospero em desafios e estou dedicada a descobrir soluções criativas para problemas complexos. Acredito no poder transformador dos dados e da tecnologia, e estou comprometida em fazer parte desta emocionante jornada rumo à inovação.
 📚 Além dos algoritmos, sou apaixonada por compartilhar o que aprendo. Aqui, você encontrará projetos e repositórios que refletem minha exploração e crescimento em ciência de dados e IA. Sinta-se à vontade para explorar, contribuir e compartilhar seus insights.
 🤝 Estou aberta a colaborações e feedbacks, ansiosa para me conectar com pessoas incríveis que compartilham a curiosidade por dados e IA. Vamos construir algo extraordinário juntos!
