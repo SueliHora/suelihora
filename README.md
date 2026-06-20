@@ -42,9 +42,9 @@ Obrigada por visitar meu perfil!
 
 ### 🛠️ Skills Técnicas / Technical Skills:
 
-* **Data Tools & Cloud:**Modern Data Stack (MDS), dbt (Data Build Tool), Databricks, PySpark, Python.
-* **Modelagem de IA / AI Modeling:**Engenharia de Prompt, Modelos de Linguagem (LLMs), Machine Learning.
-* **BI & Data Viz:**Databricks SQL Dashboards, Power BI, Looker Studio, Sigma.
-* **Automação / Automation:** Python e Excel Avançado (VBA, Power Query)
+* **Data Tools & Cloud: Modern Data Stack (MDS), dbt (Data Build Tool), Databricks, PySpark, Python**
+* **Modelagem de IA/AI Modeling: Engenharia de Prompt, Modelos de Linguagem (LLMs), Machine Learning**  
+* **BI & Data Viz: Databricks SQL Dashboards, Power BI, Looker Studio, Sigma**
+* **Automação / Automation:Python e Excel Avançado (VBA, Power Query)**
 
  **[LinkedIn](https://www.linkedin.com/in/sueli-da-hora/)** 
