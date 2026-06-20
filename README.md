@@ -29,15 +29,15 @@ Obrigada por visitar meu perfil!
 
 ### 🎓 Formação e Certificações / Education & Certifications:  
 
-* **MBA em Tecnologia para Negócios: IA, Data Science e Big Data**
-* Certificação Analytics Engineer – Indicium IA Academy (Previsão: Julho/2026)
+* **MBA em Tecnologia para Negócios: IA, Data Science e Big Data** - PUCRS
+* **Certificação Analytics Engineer** – Indicium IA Academy (Previsão: Julho/2026)
 * **Alumni** – Indicium IA Academy (Lighthouse Program)
 * **Alumni** – Oracle Next Education (ONE)
-* **AWS Certified Cloud Practitioner**
-* **Oracle Cloud Infrastructure Certified Foundations Associate**
-* **Databricks Knowledge Badge:** Data Ingestion with Lakeflow Connect
-* **Claude Code in Action & Building with the Claude API - Anthropic
-* **Sigma Partner Delivery Fundamentals – Sigma Computing
+* **AWS Certified Cloud Practitioner** - AWS
+* **Oracle Cloud Infrastructure Certified Foundations Associate** - Oracle
+* **Databricks Knowledge Badge: Data Ingestion with Lakeflow Connect** - Databricks
+* **Claude Code in Action & Building with the Claude API** - Anthropic
+* **Sigma Partner Delivery Fundamentals** – Sigma Computing
   
 
 ### 🛠️ Skills Técnicas / Technical Skills:
