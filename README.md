@@ -18,8 +18,12 @@ Sou uma profissional com mais de 20 anos de experiência na área de negócios, 
 
 Como Alumni do Programa Oracle Next Education (ONE) e do programa de formação prática da Indicium Academy (Lighthouse), tenho focado no desenvolvimento de soluções end-to-end utilizando a Modern Data Stack (MDS) e na experimentação avançada com modelos de linguagem (LLMs).
 
-Minha base técnica é consolidada por um MBA em IA, Data Science e Big Data. Sou certificada como AWS Cloud Practitioner e OCI Foundations Associate. Prospero em desafios e me dedico a encontrar soluções criativas para problemas complexos através dos dados. Aqui, você encontrará repositórios que refletem minha evolução profissional e projetos técnicos.
-Você também pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/sueli-da-hora/)**. Siga-me para se manter atualizado sobre minhas últimas descobertas e projetos em data science e AI. Obrigada por visitar meu perfil!
+
+Minha base técnica é consolidada por um MBA em IA, Data Science e Big Data e pela minha formação prática em Analytics Engineering pela Indicium Academy. Sou certificada em AWS Cloud Practitioner e OCI Foundations, com foco no domínio de ferramentas essenciais do mercado como dbt, Databricks, Python e Power BI. Prospero diante de desafios complexos, transformando dados brutos em soluções criativas e inteligência de negócios. 
+
+Aqui no meu GitHub, você encontrará repositórios que refletem minha evolução prática e projetos técnicos desenvolvidos. Fique à vontade para explorar, se conectar comigo no  **[LinkedIn](https://www.linkedin.com/in/sueli-da-hora/)** e acompanhar minhas últimas descobertas e projetos em engenharia de dados e IA.
+
+Obrigada por visitar meu perfil!
 
 ---
 
@@ -43,5 +47,4 @@ Você também pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/suel
 * **BI & Data Viz:**Databricks SQL Dashboards, Power BI, Looker Studio, Sigma.
 * **Automação / Automation:** Python e Excel Avançado (VBA, Power Query)
 
-📬 Estou aberta a colaborações e ansiosa para me conectar! Vamos construir algo extraordinário juntos? 
-Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/sueli-da-hora).
+ **[LinkedIn](https://www.linkedin.com/in/sueli-da-hora/)** 
