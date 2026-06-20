@@ -23,7 +23,7 @@ Você também pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/suel
 
 ---
 
-### 🎓 Formação e Certificações / Education & Certifications:
+### 🎓 Formação e Certificações / Education & Certifications:  
 
 * **MBA em Tecnologia para Negócios: IA, Data Science e Big Data**
 * Certificação Analytics Engineer – Indicium IA Academy (Previsão: Julho/2026)
